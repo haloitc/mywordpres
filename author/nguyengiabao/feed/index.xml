@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>New Word</title>
-	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<title>NguyenGiaBao &#8211; New Word</title>
+	<atom:link href="http://localhost/myproject/wordpress/author/nguyengiabao/feed/" rel="self" type="application/rss+xml" />
 	<link>http://haloitc.github.io/mywordpres</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 04 Oct 2022 03:50:28 +0000</lastBuildDate>
