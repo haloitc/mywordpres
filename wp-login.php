@@ -62,7 +62,6 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 					</label>
 
 					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
-<option value="en_GB" lang="en" data-installed="1">English (UK)</option>
 <option value="vi" lang="vi" data-installed="1">Tiếng Việt</option></select>
 					
 											<input type="hidden" name="redirect_to" value="http://localhost:7000/myproject/wordpress/wp-admin/">
@@ -95,7 +94,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="http://haloitc.github.io/mywordpres/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"0742b4217b"};
+var userProfileL10n = {"user_id":"0","nonce":"1bc7f715da"};
 </script>
 <script src="http://haloitc.github.io/mywordpres/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
 	<div class="clear"></div>
