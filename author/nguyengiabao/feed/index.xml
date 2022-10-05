@@ -10,7 +10,7 @@
 <channel>
 	<title>NguyenGiaBao &#8211; New Word</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/nguyengiabao/feed/" rel="self" type="application/rss+xml" />
-	<link>http://haloitc.github.io/mywordpres</link>
+	<link>https://haloitc.github.io/mywordpres</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 04 Oct 2022 03:50:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://haloitc.github.io/mywordpres/2022/10/04/hello-world/</link>
-					<comments>http://haloitc.github.io/mywordpres/2022/10/04/hello-world/#comments</comments>
+		<link>https://haloitc.github.io/mywordpres/2022/10/04/hello-world/</link>
+					<comments>https://haloitc.github.io/mywordpres/2022/10/04/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 03:50:28 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?p=1</guid>
+		<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/2022/10/04/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/2022/10/04/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

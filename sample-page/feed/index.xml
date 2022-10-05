@@ -9,7 +9,7 @@
 	<title>
 	Comments on: Sample Page	</title>
 	<atom:link href="http://localhost/myproject/wordpress/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://haloitc.github.io/mywordpres</link>
+	<link>https://haloitc.github.io/mywordpres</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 04 Oct 2022 03:50:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -10,7 +10,7 @@
 <channel>
 	<title>Products &#8211; New Word</title>
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
-	<link>http://haloitc.github.io/mywordpres</link>
+	<link>https://haloitc.github.io/mywordpres</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 04 Oct 2022 13:49:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>French Fries</title>
-		<link>http://haloitc.github.io/mywordpres/product/french-fries/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/french-fries/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/french-fries/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/french-fries/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:48:41 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=123</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=123</guid>
 
 					<description><![CDATA[<div class="description">
 <div class="description">
@@ -44,19 +44,19 @@ The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece 
 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/french-fries/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/french-fries/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>BBQ Fries</title>
-		<link>http://haloitc.github.io/mywordpres/product/bonchon-chicken/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/bonchon-chicken/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/bonchon-chicken/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/bonchon-chicken/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:43:57 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=119</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=119</guid>
 
 					<description><![CDATA[<div class="description">
 <div class="description">
@@ -74,19 +74,19 @@ The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece 
 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/bonchon-chicken/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/bonchon-chicken/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Smoothie Drinks</title>
-		<link>http://haloitc.github.io/mywordpres/product/smoothie-drinks/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/smoothie-drinks/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/smoothie-drinks/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/smoothie-drinks/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:41:59 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=115</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=115</guid>
 
 					<description><![CDATA[<div class="description">
 
@@ -102,19 +102,19 @@ The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece 
 <p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nemo enim ipsam voluptatem quia voluptas ngồi aspernatur aut odit aut fugit, sed quiaosystemuntur phóng đại dolores eos qui ratione voluptatem sequi nesciunt. </span><span style="vertical-align: inherit;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi pause incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</span></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/smoothie-drinks/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/smoothie-drinks/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pink Sugar (Copy)</title>
-		<link>http://haloitc.github.io/mywordpres/product/pink-sugar-copy/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/pink-sugar-copy/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/pink-sugar-copy/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/pink-sugar-copy/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:39:50 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=111</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=111</guid>
 
 					<description><![CDATA[<div class="description">
 
@@ -130,19 +130,19 @@ The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece 
 <p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nemo enim ipsam voluptatem quia voluptas ngồi aspernatur aut odit aut fugit, sed quiaosystemuntur phóng đại dolores eos qui ratione voluptatem sequi nesciunt. </span><span style="vertical-align: inherit;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi pause incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</span></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/pink-sugar-copy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/pink-sugar-copy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mare E Monti</title>
-		<link>http://haloitc.github.io/mywordpres/product/mare-e-monti/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/mare-e-monti/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/mare-e-monti/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/mare-e-monti/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:35:19 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=109</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=109</guid>
 
 					<description><![CDATA[<div class="description">
 <div class="description">
@@ -164,19 +164,19 @@ The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece 
 <p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nemo enim ipsam voluptatem quia voluptas ngồi aspernatur aut odit aut fugit, sed quiaosystemuntur phóng đại dolores eos qui ratione voluptatem sequi nesciunt. </span><span style="vertical-align: inherit;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi pause incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</span></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/mare-e-monti/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/mare-e-monti/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pink Sugar</title>
-		<link>http://haloitc.github.io/mywordpres/product/pink-sugar/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/pink-sugar/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/pink-sugar/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/pink-sugar/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:30:45 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=105</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=105</guid>
 
 					<description><![CDATA[<div class="description">
 
@@ -192,19 +192,19 @@ The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece 
 <p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nemo enim ipsam voluptatem quia voluptas ngồi aspernatur aut odit aut fugit, sed quiaosystemuntur phóng đại dolores eos qui ratione voluptatem sequi nesciunt. </span><span style="vertical-align: inherit;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi pause incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</span></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/pink-sugar/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/pink-sugar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Zorba Salad</title>
-		<link>http://haloitc.github.io/mywordpres/product/zorba-salad/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/zorba-salad/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/zorba-salad/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/zorba-salad/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:26:46 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=103</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=103</guid>
 
 					<description><![CDATA[<div class="description">
 <div class="description">
@@ -226,19 +226,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nemo enim ipsam voluptatem quia voluptas ngồi aspernatur aut odit aut fugit, sed quiaosystemuntur phóng đại dolores eos qui ratione voluptatem sequi nesciunt. </span><span style="vertical-align: inherit;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi pause incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</span></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/zorba-salad/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/zorba-salad/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Spiced Coffee.</title>
-		<link>http://haloitc.github.io/mywordpres/product/burger-king-copy/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/burger-king-copy/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/burger-king-copy/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/burger-king-copy/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:24:27 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=101</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=101</guid>
 
 					<description><![CDATA[<div class="description">
 
@@ -254,19 +254,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nemo enim ipsam voluptatem quia voluptas ngồi aspernatur aut odit aut fugit, sed quiaosystemuntur phóng đại dolores eos qui ratione voluptatem sequi nesciunt. </span><span style="vertical-align: inherit;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi pause incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</span></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/burger-king-copy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/burger-king-copy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pizza Palace</title>
-		<link>http://haloitc.github.io/mywordpres/product/pizza-palace/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/pizza-palace/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/pizza-palace/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/pizza-palace/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:22:07 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=99</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=99</guid>
 
 					<description><![CDATA[<div class="description">
 <div class="description">
@@ -288,19 +288,19 @@ The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece 
 <p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nemo enim ipsam voluptatem quia voluptas ngồi aspernatur aut odit aut fugit, sed quiaosystemuntur phóng đại dolores eos qui ratione voluptatem sequi nesciunt. </span><span style="vertical-align: inherit;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi pause incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</span></span></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/pizza-palace/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/pizza-palace/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Heated Affair</title>
-		<link>http://haloitc.github.io/mywordpres/product/heated-affair/</link>
-					<comments>http://haloitc.github.io/mywordpres/product/heated-affair/#respond</comments>
+		<link>https://haloitc.github.io/mywordpres/product/heated-affair/</link>
+					<comments>https://haloitc.github.io/mywordpres/product/heated-affair/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaBao]]></dc:creator>
 		<pubDate>Tue, 04 Oct 2022 13:14:52 +0000</pubDate>
-				<guid isPermaLink="false">http://haloitc.github.io/mywordpres/?post_type=product&#038;p=91</guid>
+				<guid isPermaLink="false">https://haloitc.github.io/mywordpres/?post_type=product&#038;p=91</guid>
 
 					<description><![CDATA[<div class="description">
 <div class="description">
@@ -314,7 +314,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://haloitc.github.io/mywordpres/product/heated-affair/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haloitc.github.io/mywordpres/product/heated-affair/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
