@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments on: Pink Sugar (Copy)	</title>
+	Comments on: Sugar	</title>
 	<atom:link href="http://localhost/myproject/wordpress/product/pink-sugar-copy/feed/" rel="self" type="application/rss+xml" />
 	<link>https://haloitc.github.io/mywordpres/product/pink-sugar-copy/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 04 Oct 2022 13:41:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Oct 2022 03:53:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
